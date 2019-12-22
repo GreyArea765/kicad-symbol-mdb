@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16F18877
+D PIC16F18877,  4K Flash, 192B SRAM, 128B EEPROM, SDIP28
+K Flash-Based 8-Bit CMOS Microcontroller
+$ENDCMP
+#
+#End Doc Library
